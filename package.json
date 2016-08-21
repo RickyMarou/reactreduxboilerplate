@@ -7,6 +7,10 @@
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js --port 8040"
   },
   "author": "",
+  "repository" : { 
+    "type" : "git",
+    "url" : "https://github.com/RickyMarou/reactreduxboilerplate.git"
+  },
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.2.1",

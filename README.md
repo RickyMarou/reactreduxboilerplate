@@ -1,25 +1,5 @@
-# ReduxSimpleStarter
+# Another simple react/redux boilerplate
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Basically a fork of [this](https://github.com/StephenGrider/ReduxSimpleStarter) boilerplate made by [Stephen Grider](https://twitter.com/ste_grider).
 
-###Getting Started###
-
-There are two methods for getting started with this repo.
-
-####Familiar with Git?#####
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
-	> cd ReduxSimpleStarter
-	> npm install
-	> npm start
-```
-
-####Not Familiar with Git?#####
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-	> npm install
-	> npm start
-```
+Just removed the test librairies and folder and added [responsive-components](https://www.npmjs.com/package/responsive-components) by [Romain Preston](https://twitter.com/romain_preston)
