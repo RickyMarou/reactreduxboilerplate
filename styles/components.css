@@ -1,0 +1,16 @@
+/* Component main */
+/* Platform base */
+/* Platform mobile */
+/* Platform after-mobile */
+@media screen {
+  /* Component main on base */
+  body {
+    display: block;
+  }
+}
+@media screen and (max-width: 760px) {
+  /* Component main on mobile */
+}
+@media screen and (min-width: 761px) {
+  /* Component main on after-mobile */
+}

@@ -1,0 +1,17 @@
+@import "platforms/@base.less";
+@import "platforms/@mobile.less";
+@import "platforms/@after-mobile.less";
+
+
+@media screen  {
+	.base();
+}
+
+@media screen  and (max-width: 760px) {
+	.mobile();
+}
+
+@media screen  and (min-width: 761px) {
+	.after-mobile();
+}
+

@@ -1,0 +1,7 @@
+﻿{
+  "common": [
+    "./styles/reset.css",
+    "./styles/main.css",
+    "./styles/components.css"
+  ]
+}

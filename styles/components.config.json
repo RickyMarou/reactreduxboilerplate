@@ -1,0 +1,15 @@
+﻿{
+  "path": "styles",
+  "components": [
+    "main"
+  ],
+  "platforms": {
+    "base": { },
+    "mobile": { 
+    	"max": "760px" 
+    },
+    "after-mobile": {
+      "min": "761px"
+    }
+  }
+}
